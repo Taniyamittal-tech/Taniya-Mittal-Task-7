@@ -6,3 +6,4 @@ Assumptions about your sales table:
 <br>
 Columns: id, product, quantity, price
 <br>
+Python script is added 
